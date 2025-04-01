@@ -28,7 +28,9 @@ The generated images include:
 
 - Spin Echo (SE) for various weightings (T1, T2, PD):
   ![Spin Echo](images/spin_echo.png)
-- Gradient Echo (GE) for various flip angles and TE times.
-  ![Gradient Echo](images/gradient_echo.png)
-- Inversion Recovery (IR) for various inversion times (TI) that suppress different tissue types.
-  ![Inversion Recovery](images/grad_echo_inversion.png)
+- Gradient Echo (GE) for various flip angles:
+  ![Gradient Echo](images/grad_echo_FA.png)
+- Gradient Echo (GE) for various TE times:
+- ![Gradient Echo](images/grad_echo_TE.png)
+- Inversion Recovery (IR) for various inversion times (TI) that suppress different tissue types:
+  ![Inversion Recovery](images/inversion_recovery.png)
